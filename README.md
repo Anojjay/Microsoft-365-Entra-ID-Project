@@ -10,7 +10,6 @@ Hands-on IT support lab simulating real-world Microsoft 365 administration and h
 | Ticket | Scenario | Key Skills |
 |---|---|---|
 | [Ticket 1 — PC Troubleshooting](./Ticket-PC-Troubleshooting/) | Slow computer | Windows troubleshooting, Task Manager |
-| [Ticket 2 — DNS Troubleshooting](./Ticket-DNS-Troubleshooting/) | DNS resolution issue | `nslookup`, `ping`, `ipconfig` |
 | [Ticket 3 — Employee Onboarding](./Ticket-Onboarding/) | New employee setup | Microsoft 365, Entra ID, access management |
 | [Ticket 4 — Employee Offboarding](./Ticket-Offboarding/) | Employee departure | Account security, access removal, data preservation |
 
